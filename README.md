@@ -1,4 +1,9 @@
 # smtp4dev
+
+<p align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1yyVoEHmLQgzYpDJJJvjtpo1MHdZNP84k" width="200">
+</p>
+
 Para ejecutar el contenedor de **smtp4dev**, utiliza el siguiente comando:
 ```
 sudo docker-compose up -d
